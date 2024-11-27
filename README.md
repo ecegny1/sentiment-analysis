@@ -24,8 +24,7 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-tensorflow (LSTM model için)
-nltk
+SVM
 
 Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
