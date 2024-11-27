@@ -29,9 +29,10 @@ nltk
 
 Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
-'''bash 
-
+```bash
 pip install -r requirements.txt
+```
+
 
 ## Kullanım
 Proje, Jupyter Notebook formatında yazılmıştır. Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
