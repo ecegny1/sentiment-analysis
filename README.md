@@ -1,4 +1,4 @@
-## Duygu Analizi
+# Duygu Analizi
 
 ## Proje Açıklaması
 
